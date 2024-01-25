@@ -31,7 +31,7 @@ The application architecture uses AWS Lambda, Amazon API Gateway, Amazon DynamoD
 
   A way to handle permission for code
 
-  Aplace to host website & make updates.
+  A place to host website & make updates.
 
   A way for Users to registry and log in.
   
