@@ -41,3 +41,17 @@ The application architecture uses AWS Lambda, Amazon API Gateway, Amazon DynamoD
 
   A way to invole ride sharing functionality.
 
+
+  _________________________
+
+  1) Create empty repository in code commit.
+
+  2) Add a policy to your IAM user so you can access code commit.
+
+  3) Add Git credentails for your Iam users to allow Https connections to code commit
+
+  4) Clone the rep / create an empty folder for future code .
+
+  5)  Cloud shell [CLI]
+
+  6)  Copy the project code from the S3 bucket & commit it to new repo. 
